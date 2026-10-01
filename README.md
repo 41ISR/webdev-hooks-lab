@@ -22,7 +22,6 @@ _Работаем также в папках `components`, `pages`, в комп�
 App
  └─ ShelfScreen
      └─ BookForm
-          ├─ Checkbox
           ├─ Input
           └─ Button
      ├─ FilterChip
